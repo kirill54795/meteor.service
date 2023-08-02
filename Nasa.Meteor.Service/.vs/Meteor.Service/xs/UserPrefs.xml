@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{F64CEABE-5B4B-41B6-9241-39C3FB15918D}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Nasa.Meteor.Service.BL/Services/NasaMeteorService.cs">
+    <Files>
+      <File FileName="Nasa.Meteor.Service/Controllers/MeteorController.cs" Line="22" Column="60" />
+      <File FileName="Nasa.Meteor.Service/Controllers/IMeteorService.cs" />
+      <File FileName="Nasa.Meteor.Service/Controllers/MeteorService.cs" />
+      <File FileName="Nasa.Meteor.Service/appsettings.json" Line="1" Column="1" />
+      <File FileName="Nasa.Meteor.Service/Program.cs" Line="14" Column="34" />
+      <File FileName="Nasa.Meteor.Service.DataLayer/Context/SqlServerContext.cs" Line="16" Column="2" />
+      <File FileName="Nasa.Meteor.Service.Share/Interfaces/ISqlServerContext.cs" />
+      <File FileName="Nasa.Meteor.Service.Share/Entities/BaseEntity.cs" />
+      <File FileName="Nasa.Meteor.Service.Share/Entities/MeteorClass.cs" Line="6" Column="19" />
+      <File FileName="Nasa.Meteor.Service.BL/Extensions/DependencyRegister.cs" />
+      <File FileName="Nasa.Meteor.Service/Controllers/Meteorite.cs" />
+      <File FileName="Nasa.Meteor.Service/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Nasa.Meteor.Service/Properties/launchSettings.json" Line="11" Column="16" />
+      <File FileName="Nasa.Meteor.Service/Nasa.Meteor.Service.csproj" Line="26" Column="1" />
+      <File FileName="Nasa.Meteor.Service.BL/Services/NasaMeteorService.cs" Line="42" Column="1" />
+      <File FileName="Nasa.Meteor.Service.BL/Services/NasaMeteorModel.cs" Line="3" Column="41" />
+      <File FileName="Nasa.Meteor.Service.Share/Entities/Meteorite.cs" Line="17" Column="2" />
+      <File FileName="Nasa.Meteor.Service.Share/Result.cs" Line="9" Column="39" />
+      <File FileName="Nasa.Meteor.Service.DataLayer/Repositories/MeteorRepository.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Meteor.Service.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

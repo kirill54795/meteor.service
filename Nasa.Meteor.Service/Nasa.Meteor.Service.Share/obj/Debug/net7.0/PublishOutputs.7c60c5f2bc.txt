@@ -1,0 +1,13 @@
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/publish/Nasa.Meteor.Service.Share.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/publish/Nasa.Meteor.Service.Share.deps.json
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/publish/Nasa.Meteor.Service.Share.pdb
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/publish/Microsoft.EntityFrameworkCore.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/publish/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/publish/Microsoft.Extensions.Caching.Memory.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/publish/Microsoft.Extensions.DependencyInjection.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/publish/Microsoft.Extensions.Logging.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/publish/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/publish/Microsoft.Extensions.Options.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/publish/Microsoft.Extensions.Primitives.dll

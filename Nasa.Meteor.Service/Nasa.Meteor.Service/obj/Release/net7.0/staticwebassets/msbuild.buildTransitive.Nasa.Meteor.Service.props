@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Nasa.Meteor.Service.props" />
+</Project>

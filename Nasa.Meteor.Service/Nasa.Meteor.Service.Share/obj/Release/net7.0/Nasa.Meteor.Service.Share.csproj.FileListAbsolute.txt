@@ -1,0 +1,12 @@
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.Share/bin/Release/net7.0/Nasa.Meteor.Service.Share.deps.json
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.Share/bin/Release/net7.0/Nasa.Meteor.Service.Share.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.Share/bin/Release/net7.0/Nasa.Meteor.Service.Share.pdb
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.Share/obj/Release/net7.0/Nasa.Meteor.Service.Share.csproj.AssemblyReference.cache
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.Share/obj/Release/net7.0/Nasa.Meteor.Service.Share.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.Share/obj/Release/net7.0/Nasa.Meteor.Service.Share.AssemblyInfoInputs.cache
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.Share/obj/Release/net7.0/Nasa.Meteor.Service.Share.AssemblyInfo.cs
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.Share/obj/Release/net7.0/Nasa.Meteor.Service.Share.csproj.CoreCompileInputs.cache
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.Share/obj/Release/net7.0/Nasa.Meteor.Service.Share.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.Share/obj/Release/net7.0/refint/Nasa.Meteor.Service.Share.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.Share/obj/Release/net7.0/Nasa.Meteor.Service.Share.pdb
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.Share/obj/Release/net7.0/ref/Nasa.Meteor.Service.Share.dll

@@ -1,0 +1,1 @@
+export * as dateModel from './model'

@@ -1,0 +1,17 @@
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/bin/Release/net7.0/Nasa.Meteor.Service.BL.deps.json
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/bin/Release/net7.0/Nasa.Meteor.Service.BL.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/bin/Release/net7.0/Nasa.Meteor.Service.BL.pdb
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/bin/Release/net7.0/Nasa.Meteor.Service.DataLayer.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/bin/Release/net7.0/Nasa.Meteor.Service.Share.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/bin/Release/net7.0/Nasa.Meteor.Service.Share.pdb
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/bin/Release/net7.0/Nasa.Meteor.Service.DataLayer.pdb
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/obj/Release/net7.0/Nasa.Meteor.Service.BL.csproj.AssemblyReference.cache
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/obj/Release/net7.0/Nasa.Meteor.Service.BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/obj/Release/net7.0/Nasa.Meteor.Service.BL.AssemblyInfoInputs.cache
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/obj/Release/net7.0/Nasa.Meteor.Service.BL.AssemblyInfo.cs
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/obj/Release/net7.0/Nasa.Meteor.Service.BL.csproj.CoreCompileInputs.cache
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/obj/Release/net7.0/Nasa.Meteor.Service.BL.csproj.CopyComplete
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/obj/Release/net7.0/Nasa.Meteor.Service.BL.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/obj/Release/net7.0/refint/Nasa.Meteor.Service.BL.dll
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/obj/Release/net7.0/Nasa.Meteor.Service.BL.pdb
+/Users/kirill.dolgolikov/Projects/Nasa.Meteor.Service/Nasa.Meteor.Service.BL/obj/Release/net7.0/ref/Nasa.Meteor.Service.BL.dll

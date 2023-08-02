@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Meteor.Service.Api.props" />
+</Project>

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteor.Service.Api", "Nasa.Meteor.Service\Meteor.Service.Api.csproj", "{F64CEABE-5B4B-41B6-9241-39C3FB15918D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteor.Service.Share", "Nasa.Meteor.Service.Share\Meteor.Service.Share.csproj", "{3F4C9900-7BA6-4F40-9152-D864905FD972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteor.Service.BL", "Nasa.Meteor.Service.BL\Meteor.Service.BL.csproj", "{3669AA05-5E86-4099-B6FE-65846E70A9D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteor.Service.DataLayer", "Nasa.Meteor.Service.DataLayer\Meteor.Service.DataLayer.csproj", "{464063CC-958C-44BC-960E-9C62ABC70BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64CEABE-5B4B-41B6-9241-39C3FB15918D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64CEABE-5B4B-41B6-9241-39C3FB15918D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64CEABE-5B4B-41B6-9241-39C3FB15918D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64CEABE-5B4B-41B6-9241-39C3FB15918D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4C9900-7BA6-4F40-9152-D864905FD972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4C9900-7BA6-4F40-9152-D864905FD972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4C9900-7BA6-4F40-9152-D864905FD972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4C9900-7BA6-4F40-9152-D864905FD972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3669AA05-5E86-4099-B6FE-65846E70A9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3669AA05-5E86-4099-B6FE-65846E70A9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3669AA05-5E86-4099-B6FE-65846E70A9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3669AA05-5E86-4099-B6FE-65846E70A9D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{464063CC-958C-44BC-960E-9C62ABC70BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464063CC-958C-44BC-960E-9C62ABC70BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464063CC-958C-44BC-960E-9C62ABC70BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464063CC-958C-44BC-960E-9C62ABC70BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DDCE4DE-C7C7-4D40-8666-CFCC38DF3247}
+	EndGlobalSection
+EndGlobal
